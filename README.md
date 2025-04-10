@@ -1,4 +1,5 @@
-# Translation Using Transformers
+# Machine Translation Using Transformer From Scratch
+
 
 This project implements a Transformer architecture for machine translation, specifically translating Portuguese to English, using TensorFlow.
 
